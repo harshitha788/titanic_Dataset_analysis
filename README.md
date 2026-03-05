@@ -69,7 +69,7 @@ Prepared data for ML model training
 Trained classification algorithms such as:
 Logistic Regression
 Decision Tree
-Random Forest (if used)
+Random Forest
 
 6. Model Evaluation
 
